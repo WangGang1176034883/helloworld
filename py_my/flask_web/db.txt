@@ -1,4 +1,0 @@
-lisi|456|man
-zs|789|man
-zs|789|man
-wg|123|man
